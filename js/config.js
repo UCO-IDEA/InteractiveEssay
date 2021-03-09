@@ -1,0 +1,1 @@
+const home = "/*----- Your App Root Path Here -----*/";
