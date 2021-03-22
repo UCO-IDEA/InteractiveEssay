@@ -1,1 +1,1 @@
-const home = "/*----- Your App Root Path Here -----*/";
+const home = "http://localhost/Lumina/Essay/";

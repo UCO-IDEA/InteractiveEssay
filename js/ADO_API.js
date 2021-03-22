@@ -1,7 +1,7 @@
 // JavaScript Document
 
 const method = 'POST';
-const url = 'Your path to controller.php file';
+const url = 'controller.php';
 
 const PostData = () => {
 		$.ajax({

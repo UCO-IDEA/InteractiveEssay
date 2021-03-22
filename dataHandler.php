@@ -1,6 +1,6 @@
 <?php
 
-require_once '../../../Google/google-api-php-client-2.2.0/vendor/autoload.php';
+require_once '../../apis/google/google-api-php-client-2.4.0/vendor/autoload.php';
 
 $client = new Google_Client();
 $client->setApplicationName("InteractiveEssay_Data");
